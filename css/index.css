@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo-font {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.banner-text {
+  color: white;
+  text-align: left;
+  margin-left: 14px;
+  margin-top: 160px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.cap-text-left {
+  text-align: left;
+}
+
+.cap-text-right {
+  text-align: right;
+}
+
+.cap-background-blue {
+  background-color: #BA0C2F !important;
+}
+
+.midpage-pic {
+  background: url('/assets/mid-pic.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: inherit;
+  padding-top: 434px;
+}
+
+.cap-contact {
+  margin: 19px;
+}
+
+.cap-button-color {
+  color: black !important;
+}
+
+.cap-login-bg {
+  background: url('./assets/banner1.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.rounded-icon {
+  border-radius: 50%;
+}
